@@ -27,7 +27,7 @@ int main()
 	bildetest->mirror();
 	*/
 	bildetest->lagreBitmapFil("hoydepre1.bmp");
-
+	//kjempebra
 	delete bildetest;
 	bildetest = 0;
 
